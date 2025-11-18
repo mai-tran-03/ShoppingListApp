@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ShoppingListApp</string>
+    <string name="txt_shopping_list">Shopping List</string>
+    <string name="txt_edit_item">Edit item</string>
+    <string name="txt_new_item">New item</string>
+    <string name="txt_no_items">No items</string>
+    <string name="txt_item_category">Item category</string>
+    <string name="txt_item_name">Item name</string>
+    <string name="txt_item_description">Item description</string>
+    <string name="txt_item_price">Item price</string>
+    <string name="err_valid_number">Enter a valid number</string>
+    <string name="txt_bought_yet">Bought yet?</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_edit">Edit</string>
+    <string name="btn_less">Less</string>
+    <string name="btn_more">More</string>
+    <string name="txt_dollar_sign">$%1$d</string>
+    <string name="err_required_field">Required field</string>
+    <string name="txt_alert">Are you sure?</string>
+    <string name="btn_yes">Yes</string>
+    <string name="txt_empty" />
+    <string name="txt_zero">0</string>
+    <string name="btn_back">Back</string>
+    <string name="category">category</string>
+    <string name="txt_shopping_list_with_category">%1$s - %2$s(s)</string>
+    <string name="route_filtered_shopping_list">filteredShoppingList/{category}</string>
+    <string name="route_shopping_list">shoppingList</string>
+    <string name="btn_add_item">Add item</string>
+    <string name="btn_delete_item">Delete item(s)</string>
+    <string name="btn_filter_items">Filter items</string>
+</resources>
